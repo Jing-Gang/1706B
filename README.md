@@ -1,2 +1,2 @@
 # 1706B
-day day up
+day day dome
