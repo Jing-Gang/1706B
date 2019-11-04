@@ -2,26 +2,36 @@
     <div class="">
         <p class="bar">圈子登录</p>
         <div class="iptbox">
-            <el-input class="username ipt" v-model="ipt" placeholder="账号"></el-input>
-            <el-input class="password ipt" placeholder="密码" v-model="input" show-password></el-input>
+            <el-input class="username ipt" v-model="username" placeholder="账号"></el-input>
+            <el-input class="password ipt" placeholder="密码" v-model="password" show-password></el-input>
         </div>
         <div class="loginbox">
-            <el-button class="loginbtn" type="danger" @click="btnlogin(ipt,input)">登录</el-button>
+            <el-button class="loginbtn" type="danger" @click="btnlogin()">登录</el-button>
         </div>
-        <a class="JumpToRegister">没有账号，快速注册</a>
+        <router-link class="JumpToRegister" to="/register">没有账号，快速注册</router-link>
+        <!-- <a class="JumpToRegister">没有账号，快速注册</a> -->
     </div>
 </template>
 <script>
+import {login} from '../../service/index'
 export default {
     data() {
         return {
-            input: '',
-            ipt:''
+            password: '',
+            username:''
         }
     },
     methods:{
-        btnlogin(user,pass){
-            console.log(user,pass)
+        async btnlogin(){
+            let {username, password} = this;
+            console.log(username,password)
+            let result = await login({username,password})
+            console.log(result)
+            if(result && result.data.code===1){
+                
+            }
+            alert(result.data.msg)
+
         }
     }
 }
