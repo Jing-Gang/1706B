@@ -1,0 +1,29 @@
+[{
+        "image": "色块",
+        "title": "方小鱼Finny",
+        "deal": 1098,
+        "money": 500,
+        "type": "云进货商"
+    },
+    {
+        "image": "色块",
+        "title": "早安先生",
+        "deal": 0,
+        "money": 0,
+        "type": "关注用户"
+    },
+    {
+        "image": "色块",
+        "title": "方小鱼Finny",
+        "deal": 0,
+        "money": 5000,
+        "type": "云进货商"
+    },
+    {
+        "image": "色块",
+        "title": "方小鱼",
+        "deal": 1098,
+        "money": 500,
+        "type": "成交"
+    }
+]
