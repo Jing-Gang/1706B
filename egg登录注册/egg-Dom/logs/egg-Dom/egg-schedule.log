@@ -1,0 +1,633 @@
+2019-12-04 11:05:37,990 INFO 9404 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 11:05:37,990 INFO 9404 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 11:05:37,990 INFO 9404 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 11:05:38,103 INFO 4456 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 62661914ms at 2019-12-05 04:30:00.017
+2019-12-04 11:05:38,103 INFO 4456 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 46461897ms at 2019-12-05 00:00:00.000
+2019-12-04 11:05:38,104 INFO 4456 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 46462897ms at 2019-12-05 00:00:01.001
+2019-12-04 11:15:42,926 INFO 18156 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 62057078ms at 2019-12-05 04:30:00.004
+2019-12-04 11:15:42,926 INFO 18156 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 45857074ms at 2019-12-05 00:00:00.000
+2019-12-04 11:15:42,926 INFO 18156 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 45858074ms at 2019-12-05 00:00:01.000
+2019-12-04 11:15:42,831 INFO 6248 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 11:15:42,831 INFO 6248 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 11:15:42,831 INFO 6248 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 11:16:00,276 INFO 7360 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 11:16:00,276 INFO 7360 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 11:16:00,276 INFO 7360 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 11:16:00,386 INFO 4680 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 62039617ms at 2019-12-05 04:30:00.003
+2019-12-04 11:16:00,387 INFO 4680 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 45839614ms at 2019-12-05 00:00:00.001
+2019-12-04 11:16:00,388 INFO 4680 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 45840613ms at 2019-12-05 00:00:01.001
+2019-12-04 11:16:15,165 INFO 17552 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 11:16:15,165 INFO 17552 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 11:16:15,165 INFO 17552 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 11:16:24,115 INFO 17828 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 11:16:24,115 INFO 17828 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 11:16:24,115 INFO 17828 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 11:16:24,222 INFO 4184 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 62015781ms at 2019-12-05 04:30:00.003
+2019-12-04 11:16:24,223 INFO 4184 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 45815778ms at 2019-12-05 00:00:00.001
+2019-12-04 11:16:24,223 INFO 4184 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 45816777ms at 2019-12-05 00:00:01.000
+2019-12-04 11:16:44,016 INFO 5244 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 11:16:44,016 INFO 5244 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 11:16:44,016 INFO 5244 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 11:16:51,056 INFO 11528 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 61988947ms at 2019-12-05 04:30:00.003
+2019-12-04 11:16:51,057 INFO 11528 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 45788944ms at 2019-12-05 00:00:00.001
+2019-12-04 11:16:51,057 INFO 11528 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 45789943ms at 2019-12-05 00:00:01.000
+2019-12-04 11:16:50,957 INFO 14488 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 11:16:50,957 INFO 14488 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 11:16:50,957 INFO 14488 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 11:26:16,078 INFO 17828 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 11:26:16,078 INFO 17828 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 11:26:16,078 INFO 17828 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 11:30:24,532 INFO 14856 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 61175470ms at 2019-12-05 04:30:00.002
+2019-12-04 11:30:24,533 INFO 14856 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 44975467ms at 2019-12-05 00:00:00.000
+2019-12-04 11:30:24,533 INFO 14856 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 44976467ms at 2019-12-05 00:00:01.000
+2019-12-04 11:30:24,433 INFO 10992 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 11:30:24,433 INFO 10992 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 11:30:24,433 INFO 10992 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 11:34:23,562 INFO 17804 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 11:34:23,562 INFO 17804 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 11:34:23,562 INFO 17804 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 11:34:45,044 INFO 18236 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 11:34:45,044 INFO 18236 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 11:34:45,044 INFO 18236 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 11:42:06,599 INFO 11452 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 11:42:06,599 INFO 11452 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 11:42:06,599 INFO 11452 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 11:48:43,827 INFO 3320 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 11:48:43,827 INFO 3320 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 11:48:43,827 INFO 3320 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:03:02,527 INFO 19424 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:03:02,527 INFO 19424 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:03:02,527 INFO 19424 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:03:03,077 INFO 10928 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 34016946ms at 2019-12-05 04:30:00.023
+2019-12-04 19:03:03,077 INFO 10928 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 17816923ms at 2019-12-05 00:00:00.000
+2019-12-04 19:03:03,078 INFO 10928 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 17817923ms at 2019-12-05 00:00:01.001
+2019-12-04 19:05:17,027 INFO 18108 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:05:17,027 INFO 18108 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:05:17,027 INFO 18108 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:05:51,477 INFO 12500 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:05:51,477 INFO 12500 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:05:51,477 INFO 12500 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:06:23,330 INFO 10460 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:06:23,330 INFO 10460 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:06:23,330 INFO 10460 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:07:22,597 INFO 15636 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:07:22,597 INFO 15636 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:07:22,597 INFO 15636 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:07:30,720 INFO 16204 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:07:30,720 INFO 16204 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:07:30,720 INFO 16204 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:07:30,834 INFO 20384 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 33749170ms at 2019-12-05 04:30:00.004
+2019-12-04 19:07:30,834 INFO 20384 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 17549166ms at 2019-12-05 00:00:00.000
+2019-12-04 19:07:30,834 INFO 20384 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 17550166ms at 2019-12-05 00:00:01.000
+2019-12-04 19:08:14,347 INFO 10944 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:08:14,347 INFO 10944 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:08:14,347 INFO 10944 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:08:29,306 INFO 18648 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:08:29,306 INFO 18648 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:08:29,306 INFO 18648 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:08:49,960 INFO 4456 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:08:49,960 INFO 4456 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:08:49,960 INFO 4456 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:09:11,337 INFO 19716 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:09:11,337 INFO 19716 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:09:11,337 INFO 19716 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:09:28,935 INFO 16172 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:09:28,935 INFO 16172 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:09:28,935 INFO 16172 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:09:36,618 INFO 13464 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 33623385ms at 2019-12-05 04:30:00.003
+2019-12-04 19:09:36,619 INFO 13464 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 17423381ms at 2019-12-05 00:00:00.000
+2019-12-04 19:09:36,619 INFO 13464 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 17424381ms at 2019-12-05 00:00:01.000
+2019-12-04 19:09:36,502 INFO 19184 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:09:36,502 INFO 19184 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:09:36,502 INFO 19184 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:13:38,883 INFO 9444 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:13:38,884 INFO 9444 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:13:38,884 INFO 9444 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:25:51,006 INFO 15060 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:25:51,006 INFO 15060 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:25:51,006 INFO 15060 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:26:17,676 INFO 2436 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 32622327ms at 2019-12-05 04:30:00.003
+2019-12-04 19:26:17,676 INFO 2436 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 16422324ms at 2019-12-05 00:00:00.000
+2019-12-04 19:26:17,677 INFO 2436 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 16423324ms at 2019-12-05 00:00:01.001
+2019-12-04 19:26:17,587 INFO 17616 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:26:17,587 INFO 17616 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:26:17,587 INFO 17616 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:31:37,988 INFO 13864 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 32302015ms at 2019-12-05 04:30:00.003
+2019-12-04 19:31:37,988 INFO 13864 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 16102012ms at 2019-12-05 00:00:00.000
+2019-12-04 19:31:37,988 INFO 13864 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 16103012ms at 2019-12-05 00:00:01.000
+2019-12-04 19:31:37,898 INFO 17460 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:31:37,899 INFO 17460 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:31:37,899 INFO 17460 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:33:26,889 INFO 10276 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:33:26,889 INFO 10276 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:33:26,889 INFO 10276 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:33:53,914 INFO 17872 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:33:53,914 INFO 17872 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:33:53,914 INFO 17872 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:36:12,604 INFO 15820 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:36:12,604 INFO 15820 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:36:12,604 INFO 15820 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:37:57,032 INFO 10168 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:37:57,033 INFO 10168 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:37:57,033 INFO 10168 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:42:54,186 INFO 1940 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:42:54,186 INFO 1940 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:42:54,186 INFO 1940 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:42:55,174 INFO 20260 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:42:55,174 INFO 20260 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:42:55,174 INFO 20260 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:53:29,503 INFO 18808 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 30990500ms at 2019-12-05 04:30:00.003
+2019-12-04 19:53:29,503 INFO 18808 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 14790497ms at 2019-12-05 00:00:00.000
+2019-12-04 19:53:29,504 INFO 18808 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 14791497ms at 2019-12-05 00:00:01.001
+2019-12-04 19:53:29,331 INFO 17412 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:53:29,332 INFO 17412 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:53:29,332 INFO 17412 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:55:38,515 INFO 14824 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:55:38,515 INFO 14824 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:55:38,515 INFO 14824 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:58:14,354 INFO 18072 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:58:14,354 INFO 18072 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:58:14,354 INFO 18072 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:58:57,563 INFO 4028 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:58:57,563 INFO 4028 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:58:57,563 INFO 4028 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:59:05,156 INFO 5024 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 19:59:05,156 INFO 5024 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 19:59:05,156 INFO 5024 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 19:59:05,327 INFO 14216 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 30654676ms at 2019-12-05 04:30:00.003
+2019-12-04 19:59:05,328 INFO 14216 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 14454672ms at 2019-12-05 00:00:00.000
+2019-12-04 19:59:05,328 INFO 14216 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 14455672ms at 2019-12-05 00:00:01.000
+2019-12-04 20:04:44,497 INFO 7616 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:04:44,497 INFO 7616 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:04:44,497 INFO 7616 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:05:15,053 INFO 16108 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:05:15,053 INFO 16108 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:05:15,053 INFO 16108 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:06:53,906 INFO 18648 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:06:53,906 INFO 18648 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:06:53,906 INFO 18648 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:07:55,314 INFO 9892 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:07:55,314 INFO 9892 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:07:55,314 INFO 9892 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:08:10,597 INFO 16932 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:08:10,597 INFO 16932 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:08:10,597 INFO 16932 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:08:58,457 INFO 16588 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:08:58,457 INFO 16588 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:08:58,457 INFO 16588 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:10:08,627 INFO 8280 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:10:08,627 INFO 8280 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:10:08,627 INFO 8280 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:10:50,368 INFO 7204 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:10:50,368 INFO 7204 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:10:50,368 INFO 7204 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:10:58,499 INFO 19016 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:10:58,499 INFO 19016 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:10:58,499 INFO 19016 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:10:58,657 INFO 4032 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 29941347ms at 2019-12-05 04:30:00.004
+2019-12-04 20:10:58,657 INFO 4032 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 13741343ms at 2019-12-05 00:00:00.000
+2019-12-04 20:10:58,658 INFO 4032 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 13742343ms at 2019-12-05 00:00:01.001
+2019-12-04 20:21:31,126 INFO 3244 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:21:31,126 INFO 3244 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:21:31,126 INFO 3244 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:21:40,154 INFO 3400 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:21:40,154 INFO 3400 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:21:40,154 INFO 3400 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:21:40,317 INFO 14796 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 29299687ms at 2019-12-05 04:30:00.004
+2019-12-04 20:21:40,317 INFO 14796 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 13099683ms at 2019-12-05 00:00:00.000
+2019-12-04 20:21:40,317 INFO 14796 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 13100683ms at 2019-12-05 00:00:01.000
+2019-12-04 20:22:07,016 INFO 6336 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:22:07,016 INFO 6336 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:22:07,016 INFO 6336 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:22:15,331 INFO 8716 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:22:15,331 INFO 8716 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:22:15,331 INFO 8716 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:23:01,731 INFO 1240 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:23:01,731 INFO 1240 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:23:01,731 INFO 1240 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:23:57,703 INFO 9804 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:23:57,703 INFO 9804 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:23:57,703 INFO 9804 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:24:18,286 INFO 17768 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:24:18,286 INFO 17768 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:24:18,286 INFO 17768 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:24:18,494 INFO 11032 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 29141509ms at 2019-12-05 04:30:00.003
+2019-12-04 20:24:18,494 INFO 11032 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 12941506ms at 2019-12-05 00:00:00.000
+2019-12-04 20:24:18,494 INFO 11032 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 12942506ms at 2019-12-05 00:00:01.000
+2019-12-04 20:25:56,837 INFO 17992 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:25:56,837 INFO 17992 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:25:56,837 INFO 17992 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:27:05,662 INFO 7992 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:27:05,662 INFO 7992 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:27:05,662 INFO 7992 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:27:59,715 INFO 5112 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:27:59,715 INFO 5112 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:27:59,715 INFO 5112 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:29:17,941 INFO 2900 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:29:17,941 INFO 2900 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:29:17,941 INFO 2900 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:30:11,074 INFO 5456 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:30:11,074 INFO 5456 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:30:11,074 INFO 5456 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:31:40,525 INFO 1656 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:31:40,525 INFO 1656 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:31:40,525 INFO 1656 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:31:56,687 INFO 6336 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:31:56,687 INFO 6336 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:31:56,687 INFO 6336 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:31:56,873 INFO 8892 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 28683131ms at 2019-12-05 04:30:00.004
+2019-12-04 20:31:56,873 INFO 8892 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 12483127ms at 2019-12-05 00:00:00.000
+2019-12-04 20:31:56,873 INFO 8892 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 12484127ms at 2019-12-05 00:00:01.000
+2019-12-04 20:33:38,605 INFO 9508 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:33:38,605 INFO 9508 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:33:38,605 INFO 9508 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:33:42,673 INFO 11160 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:33:42,673 INFO 11160 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:33:42,673 INFO 11160 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:33:47,630 INFO 16712 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:33:47,630 INFO 16712 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:33:47,630 INFO 16712 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-04 20:34:15,402 INFO 18200 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-04 20:34:15,402 INFO 18200 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-04 20:34:15,402 INFO 18200 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:25:02,752 INFO 19308 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:25:02,752 INFO 19308 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:25:02,752 INFO 19308 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:25:03,778 INFO 2664 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 47096247ms at 2019-12-06 04:30:00.024
+2019-12-05 15:25:03,778 INFO 2664 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 30896222ms at 2019-12-06 00:00:00.000
+2019-12-05 15:25:03,778 INFO 2664 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 30897222ms at 2019-12-06 00:00:01.000
+2019-12-05 15:26:09,552 INFO 18060 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:26:09,552 INFO 18060 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:26:09,552 INFO 18060 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:26:32,371 INFO 1580 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:26:32,371 INFO 1580 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:26:32,371 INFO 1580 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:28:37,214 INFO 9144 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:28:37,214 INFO 9144 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:28:37,215 INFO 9144 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:28:55,582 INFO 18060 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:28:55,582 INFO 18060 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:28:55,582 INFO 18060 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:29:16,077 INFO 15780 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:29:16,077 INFO 15780 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:29:16,077 INFO 15780 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:31:08,599 INFO 18400 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:31:08,599 INFO 18400 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:31:08,599 INFO 18400 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:31:52,500 INFO 12708 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:31:52,500 INFO 12708 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:31:52,500 INFO 12708 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:32:02,461 INFO 9588 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:32:02,461 INFO 9588 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:32:02,461 INFO 9588 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:32:09,984 INFO 7672 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:32:09,985 INFO 7672 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:32:09,985 INFO 7672 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:32:18,729 INFO 6912 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:32:18,729 INFO 6912 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:32:18,729 INFO 6912 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:32:26,470 INFO 2076 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:32:26,470 INFO 2076 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:32:26,470 INFO 2076 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:32:26,668 INFO 14056 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 46653337ms at 2019-12-06 04:30:00.005
+2019-12-05 15:32:26,668 INFO 14056 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 30453332ms at 2019-12-06 00:00:00.000
+2019-12-05 15:32:26,668 INFO 14056 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 30454332ms at 2019-12-06 00:00:01.000
+2019-12-05 15:32:55,365 INFO 13736 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:32:55,365 INFO 13736 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:32:55,365 INFO 13736 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:33:03,726 INFO 1376 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:33:03,726 INFO 1376 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:33:03,727 INFO 1376 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:33:43,509 INFO 12944 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:33:43,509 INFO 12944 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:33:43,509 INFO 12944 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:34:04,381 INFO 1848 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:34:04,381 INFO 1848 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:34:04,381 INFO 1848 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:34:38,969 INFO 6520 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:34:38,970 INFO 6520 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:34:38,970 INFO 6520 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:34:49,255 INFO 18228 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:34:49,255 INFO 18228 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:34:49,255 INFO 18228 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:35:13,920 INFO 17788 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:35:13,920 INFO 17788 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:35:13,920 INFO 17788 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:35:26,653 INFO 13768 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:35:26,653 INFO 13768 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:35:26,653 INFO 13768 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:35:37,888 INFO 4488 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:35:37,889 INFO 4488 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:35:37,889 INFO 4488 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:36:00,763 INFO 8092 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:36:00,763 INFO 8092 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:36:00,763 INFO 8092 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:36:17,615 INFO 19188 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:36:17,615 INFO 19188 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:36:17,615 INFO 19188 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:36:28,995 INFO 5144 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:36:28,995 INFO 5144 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:36:28,995 INFO 5144 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:37:01,457 INFO 19384 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:37:01,457 INFO 19384 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:37:01,457 INFO 19384 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:37:16,752 INFO 2288 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:37:16,752 INFO 2288 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:37:16,752 INFO 2288 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:37:36,864 INFO 15148 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:37:36,864 INFO 15148 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:37:36,864 INFO 15148 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:41:18,319 INFO 844 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:41:18,319 INFO 844 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:41:18,319 INFO 844 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:41:18,524 INFO 9244 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 46121480ms at 2019-12-06 04:30:00.004
+2019-12-05 15:41:18,525 INFO 9244 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 29921476ms at 2019-12-06 00:00:00.001
+2019-12-05 15:41:18,525 INFO 9244 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 29922475ms at 2019-12-06 00:00:01.000
+2019-12-05 15:42:27,725 INFO 15100 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:42:27,725 INFO 15100 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:42:27,725 INFO 15100 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:42:27,977 INFO 14828 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 46052029ms at 2019-12-06 04:30:00.006
+2019-12-05 15:42:27,978 INFO 14828 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 29852022ms at 2019-12-06 00:00:00.000
+2019-12-05 15:42:27,979 INFO 14828 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 29853022ms at 2019-12-06 00:00:01.001
+2019-12-05 15:44:06,625 INFO 14216 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 15:44:06,625 INFO 14216 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 15:44:06,625 INFO 14216 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 15:44:06,833 INFO 5068 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 45953170ms at 2019-12-06 04:30:00.003
+2019-12-05 15:44:06,833 INFO 5068 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 29753167ms at 2019-12-06 00:00:00.000
+2019-12-05 15:44:06,834 INFO 5068 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 29754167ms at 2019-12-06 00:00:01.001
+2019-12-05 19:28:08,426 INFO 4520 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 19:28:08,427 INFO 4520 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 19:28:08,427 INFO 4520 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 19:28:09,881 INFO 15660 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 32510122ms at 2019-12-06 04:30:00.003
+2019-12-05 19:28:09,882 INFO 15660 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 16310119ms at 2019-12-06 00:00:00.001
+2019-12-05 19:28:09,882 INFO 15660 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 16311118ms at 2019-12-06 00:00:01.000
+2019-12-05 19:49:57,412 INFO 17776 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 19:49:57,412 INFO 17776 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 19:49:57,412 INFO 17776 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 19:50:42,631 INFO 18264 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 19:50:42,631 INFO 18264 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 19:50:42,631 INFO 18264 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 19:51:00,146 INFO 18412 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 19:51:00,146 INFO 18412 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 19:51:00,146 INFO 18412 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 19:51:21,130 INFO 12196 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 19:51:21,130 INFO 12196 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 19:51:21,130 INFO 12196 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 19:51:41,722 INFO 3292 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 19:51:41,722 INFO 3292 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 19:51:41,722 INFO 3292 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 19:52:17,010 INFO 17420 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 19:52:17,010 INFO 17420 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 19:52:17,010 INFO 17420 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 19:54:43,679 INFO 15764 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 19:54:43,679 INFO 15764 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 19:54:43,679 INFO 15764 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 19:54:43,882 INFO 9460 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 30916122ms at 2019-12-06 04:30:00.004
+2019-12-05 19:54:43,882 INFO 9460 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 14716118ms at 2019-12-06 00:00:00.000
+2019-12-05 19:54:43,882 INFO 9460 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 14717118ms at 2019-12-06 00:00:01.000
+2019-12-05 19:58:41,929 INFO 16472 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 19:58:41,929 INFO 16472 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 19:58:41,929 INFO 16472 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 19:58:45,567 INFO 3960 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 19:58:45,567 INFO 3960 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 19:58:45,567 INFO 3960 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 19:59:10,662 INFO 17048 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 19:59:10,662 INFO 17048 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 19:59:10,662 INFO 17048 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 20:36:37,933 INFO 18104 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 20:36:37,933 INFO 18104 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 20:36:37,933 INFO 18104 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 20:37:40,877 INFO 17448 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 20:37:40,877 INFO 17448 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 20:37:40,877 INFO 17448 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 20:38:02,691 INFO 18392 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 20:38:02,691 INFO 18392 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 20:38:02,691 INFO 18392 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 20:38:49,398 INFO 3132 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 20:38:49,398 INFO 3132 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 20:38:49,398 INFO 3132 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 20:39:12,399 INFO 18200 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 20:39:12,400 INFO 18200 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 20:39:12,400 INFO 18200 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 20:39:20,790 INFO 6496 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 20:39:20,790 INFO 6496 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 20:39:20,790 INFO 6496 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 20:39:52,303 INFO 2892 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 20:39:52,304 INFO 2892 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 20:39:52,304 INFO 2892 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-05 20:44:36,709 INFO 17596 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 27923296ms at 2019-12-06 04:30:00.005
+2019-12-05 20:44:36,709 INFO 17596 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 11723291ms at 2019-12-06 00:00:00.000
+2019-12-05 20:44:36,709 INFO 17596 [Timer] E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 11724291ms at 2019-12-06 00:00:01.000
+2019-12-05 20:44:36,508 INFO 5908 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-05 20:44:36,509 INFO 5908 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-05 20:44:36,509 INFO 5908 [egg-schedule]: register schedule E:\学习文档\高级node\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-06 09:52:43,976 INFO 17416 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-06 09:52:43,976 INFO 17416 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-06 09:52:43,976 INFO 17416 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-06 09:54:52,236 INFO 17912 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 66907791ms at 2019-12-07 04:30:00.027
+2019-12-06 09:54:52,237 INFO 17912 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 50707764ms at 2019-12-07 00:00:00.001
+2019-12-06 09:54:52,237 INFO 17912 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 50708763ms at 2019-12-07 00:00:01.000
+2019-12-06 09:54:51,909 INFO 8532 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-06 09:54:51,909 INFO 8532 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-06 09:54:51,909 INFO 8532 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-06 10:05:58,696 INFO 17744 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-06 10:05:58,696 INFO 17744 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-06 10:05:58,696 INFO 17744 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-06 10:08:11,519 INFO 16412 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-06 10:08:11,519 INFO 16412 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-06 10:08:11,519 INFO 16412 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-06 10:09:40,420 INFO 14672 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-06 10:09:40,420 INFO 14672 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-06 10:09:40,420 INFO 14672 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-06 10:09:40,601 INFO 17812 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 66019402ms at 2019-12-07 04:30:00.003
+2019-12-06 10:09:40,602 INFO 17812 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 49819399ms at 2019-12-07 00:00:00.001
+2019-12-06 10:09:40,602 INFO 17812 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 49820398ms at 2019-12-07 00:00:01.000
+2019-12-06 10:19:59,135 INFO 7496 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-06 10:19:59,135 INFO 7496 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-06 10:19:59,135 INFO 7496 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-06 10:23:13,017 INFO 17752 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-06 10:23:13,017 INFO 17752 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-06 10:23:13,017 INFO 17752 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-06 16:26:40,480 INFO 7848 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-06 16:26:40,480 INFO 7848 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-06 16:26:40,480 INFO 7848 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-06 16:26:41,610 INFO 6656 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 43398395ms at 2019-12-07 04:30:00.005
+2019-12-06 16:26:41,610 INFO 6656 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 27198390ms at 2019-12-07 00:00:00.000
+2019-12-06 16:26:41,611 INFO 6656 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 27199390ms at 2019-12-07 00:00:01.001
+2019-12-07 10:26:21,228 INFO 2312 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 10:26:21,228 INFO 2312 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 10:26:21,228 INFO 2312 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 10:26:22,831 INFO 19528 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 65017173ms at 2019-12-08 04:30:00.004
+2019-12-07 10:26:22,831 INFO 19528 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 48817169ms at 2019-12-08 00:00:00.000
+2019-12-07 10:26:22,832 INFO 19528 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 48818169ms at 2019-12-08 00:00:01.001
+2019-12-07 10:34:18,596 INFO 19676 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 10:34:18,596 INFO 19676 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 10:34:18,596 INFO 19676 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 10:38:09,977 INFO 10496 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 10:38:09,977 INFO 10496 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 10:38:09,977 INFO 10496 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 10:39:12,205 INFO 21332 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 10:39:12,205 INFO 21332 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 10:39:12,205 INFO 21332 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 10:39:47,384 INFO 12348 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 10:39:47,384 INFO 12348 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 10:39:47,384 INFO 12348 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 10:40:49,144 INFO 6684 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 10:40:49,144 INFO 6684 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 10:40:49,144 INFO 6684 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 10:41:15,737 INFO 9576 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 10:41:15,737 INFO 9576 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 10:41:15,737 INFO 9576 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 10:49:00,511 INFO 18508 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 10:49:00,511 INFO 18508 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 10:49:00,511 INFO 18508 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 10:49:00,709 INFO 18992 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 63659295ms at 2019-12-08 04:30:00.004
+2019-12-07 10:49:00,710 INFO 18992 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 47459291ms at 2019-12-08 00:00:00.001
+2019-12-07 10:49:00,710 INFO 18992 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 47460290ms at 2019-12-08 00:00:01.000
+2019-12-07 10:49:30,064 INFO 9756 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 10:49:30,064 INFO 9756 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 10:49:30,064 INFO 9756 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 10:59:11,955 INFO 16456 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 10:59:11,955 INFO 16456 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 10:59:11,955 INFO 16456 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 10:59:12,129 INFO 18112 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 63047874ms at 2019-12-08 04:30:00.003
+2019-12-07 10:59:12,130 INFO 18112 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 46847870ms at 2019-12-08 00:00:00.000
+2019-12-07 10:59:12,130 INFO 18112 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 46848870ms at 2019-12-08 00:00:01.000
+2019-12-07 11:04:23,437 INFO 13580 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 11:04:23,437 INFO 13580 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 11:04:23,437 INFO 13580 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 11:14:14,289 INFO 12472 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 11:14:14,289 INFO 12472 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 11:14:14,289 INFO 12472 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 11:14:15,308 INFO 9848 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 11:14:15,308 INFO 9848 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 11:14:15,308 INFO 9848 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 11:15:37,218 INFO 14100 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 11:15:37,218 INFO 14100 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 11:15:37,218 INFO 14100 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 11:16:30,374 INFO 4892 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 11:16:30,374 INFO 4892 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 11:16:30,374 INFO 4892 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 11:16:46,051 INFO 19096 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 61993953ms at 2019-12-08 04:30:00.004
+2019-12-07 11:16:46,051 INFO 19096 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 45793949ms at 2019-12-08 00:00:00.000
+2019-12-07 11:16:46,051 INFO 19096 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 45794949ms at 2019-12-08 00:00:01.000
+2019-12-07 11:16:45,860 INFO 19304 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 11:16:45,860 INFO 19304 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 11:16:45,860 INFO 19304 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 11:17:17,565 INFO 4900 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 11:17:17,565 INFO 4900 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 11:17:17,565 INFO 4900 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 11:18:05,640 INFO 1636 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 11:18:05,640 INFO 1636 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 11:18:05,640 INFO 1636 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 11:18:18,547 INFO 21156 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 11:18:18,547 INFO 21156 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 11:18:18,547 INFO 21156 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 11:18:50,510 INFO 18328 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 11:18:50,510 INFO 18328 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 11:18:50,510 INFO 18328 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 11:23:45,845 INFO 20340 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 11:23:45,845 INFO 20340 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 11:23:45,845 INFO 20340 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 11:29:45,801 INFO 9128 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 11:29:45,802 INFO 9128 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 11:29:45,802 INFO 9128 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 11:29:49,126 INFO 21024 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 11:29:49,126 INFO 21024 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 11:29:49,126 INFO 21024 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 11:31:46,957 INFO 15252 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 11:31:46,957 INFO 15252 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 11:31:46,957 INFO 15252 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-07 11:31:47,134 INFO 18484 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 61092870ms at 2019-12-08 04:30:00.004
+2019-12-07 11:31:47,135 INFO 18484 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 44892866ms at 2019-12-08 00:00:00.001
+2019-12-07 11:31:47,135 INFO 18484 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 44893865ms at 2019-12-08 00:00:01.000
+2019-12-07 11:56:20,920 INFO 15088 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-07 11:56:20,920 INFO 15088 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-07 11:56:20,921 INFO 15088 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-10 11:42:12,490 INFO 16892 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-10 11:42:12,490 INFO 16892 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-10 11:42:12,490 INFO 16892 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-10 11:42:14,457 INFO 17180 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 60465579ms at 2019-12-11 04:30:00.036
+2019-12-10 11:42:14,457 INFO 17180 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 44265543ms at 2019-12-11 00:00:00.000
+2019-12-10 11:42:14,458 INFO 17180 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 44266543ms at 2019-12-11 00:00:01.001
+2019-12-10 14:08:53,538 INFO 17220 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 51666469ms at 2019-12-11 04:30:00.007
+2019-12-10 14:08:53,539 INFO 17220 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 35466461ms at 2019-12-11 00:00:00.000
+2019-12-10 14:08:53,540 INFO 17220 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 35467461ms at 2019-12-11 00:00:01.001
+2019-12-10 14:08:53,282 INFO 13812 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-10 14:08:53,282 INFO 13812 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-10 14:08:53,282 INFO 13812 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-10 14:14:26,110 INFO 18336 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-10 14:14:26,110 INFO 18336 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-10 14:14:26,110 INFO 18336 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-10 14:14:26,336 INFO 3032 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 51333667ms at 2019-12-11 04:30:00.003
+2019-12-10 14:14:26,337 INFO 3032 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 35133663ms at 2019-12-11 00:00:00.000
+2019-12-10 14:14:26,337 INFO 3032 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 35134663ms at 2019-12-11 00:00:01.000
+2019-12-10 14:15:43,600 INFO 17124 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-10 14:15:43,600 INFO 17124 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-10 14:15:43,600 INFO 17124 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-10 14:15:52,033 INFO 13812 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-10 14:15:52,033 INFO 13812 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-10 14:15:52,033 INFO 13812 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-10 14:15:52,250 INFO 17180 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 51247755ms at 2019-12-11 04:30:00.005
+2019-12-10 14:15:52,251 INFO 17180 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 35047750ms at 2019-12-11 00:00:00.001
+2019-12-10 14:15:52,251 INFO 17180 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 35048749ms at 2019-12-11 00:00:01.000
+2019-12-10 14:16:49,026 INFO 9412 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-10 14:16:49,026 INFO 9412 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-10 14:16:49,026 INFO 9412 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-10 14:17:02,643 INFO 15100 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-10 14:17:02,643 INFO 15100 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-10 14:17:02,643 INFO 15100 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-10 14:17:13,146 INFO 12492 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-10 14:17:13,146 INFO 12492 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-10 14:17:13,146 INFO 12492 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-10 14:17:21,535 INFO 14120 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-10 14:17:21,535 INFO 14120 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-10 14:17:21,535 INFO 14120 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-10 14:17:21,774 INFO 6068 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 51158232ms at 2019-12-11 04:30:00.006
+2019-12-10 14:17:21,774 INFO 6068 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 34958226ms at 2019-12-11 00:00:00.000
+2019-12-10 14:17:21,775 INFO 6068 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 34959226ms at 2019-12-11 00:00:01.001
+2019-12-10 14:26:15,549 INFO 2756 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-10 14:26:15,549 INFO 2756 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-10 14:26:15,549 INFO 2756 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-10 14:26:34,845 INFO 17844 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-10 14:26:34,845 INFO 17844 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-10 14:26:34,845 INFO 17844 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-10 14:26:42,830 INFO 17888 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-10 14:26:42,830 INFO 17888 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-10 14:26:42,830 INFO 17888 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-10 14:26:43,073 INFO 13812 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 50596930ms at 2019-12-11 04:30:00.003
+2019-12-10 14:26:43,073 INFO 13812 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 34396927ms at 2019-12-11 00:00:00.000
+2019-12-10 14:26:43,074 INFO 13812 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 34397927ms at 2019-12-11 00:00:01.001
+2019-12-10 14:27:08,671 INFO 272 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-10 14:27:08,671 INFO 272 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-10 14:27:08,671 INFO 272 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-10 14:27:18,535 INFO 15976 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-10 14:27:18,535 INFO 15976 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-10 14:27:18,535 INFO 15976 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-10 14:27:34,306 INFO 11116 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-10 14:27:34,306 INFO 11116 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-10 14:27:34,306 INFO 11116 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-10 14:27:54,076 INFO 17696 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-10 14:27:54,076 INFO 17696 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-10 14:27:54,076 INFO 17696 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-10 14:27:57,945 INFO 2248 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-10 14:27:57,945 INFO 2248 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-10 14:27:57,945 INFO 2248 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-10 16:19:09,276 INFO 6404 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-10 16:19:09,276 INFO 6404 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-10 16:19:09,276 INFO 6404 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-10 16:33:49,395 INFO 14828 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-10 16:33:49,395 INFO 14828 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-10 16:33:49,395 INFO 14828 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-10 20:30:44,812 INFO 18388 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-10 20:30:44,812 INFO 18388 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-10 20:30:44,812 INFO 18388 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-10 20:30:48,348 INFO 13400 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 28751657ms at 2019-12-11 04:30:00.005
+2019-12-10 20:30:48,349 INFO 13400 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 12551651ms at 2019-12-11 00:00:00.000
+2019-12-10 20:30:48,349 INFO 13400 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 12552651ms at 2019-12-11 00:00:01.000
+2019-12-11 14:35:16,438 INFO 5652 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-12-11 14:35:16,438 INFO 5652 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-11 14:35:16,438 INFO 5652 [egg-schedule]: register schedule E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-11 14:35:17,958 INFO 9408 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 50082052ms at 2019-12-12 04:30:00.010
+2019-12-11 14:35:17,958 INFO 9408 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 33882042ms at 2019-12-12 00:00:00.000
+2019-12-11 14:35:17,959 INFO 9408 [Timer] E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 33883042ms at 2019-12-12 00:00:01.001

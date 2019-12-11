@@ -1,0 +1,814 @@
+2019-12-04 11:05:56,835 ERROR 9404 [-/127.0.0.1/-/102ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (E:\学习文档\高级node\egg-Dom\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (E:\学习文档\高级node\egg-Dom\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (E:\学习文档\高级node\egg-Dom\node_modules\egg-security\app\extend\context.js:86:33)
+    at Object.ensureCsrfSecret (E:\学习文档\高级node\egg-Dom\node_modules\egg-security\app\extend\context.js:97:13)
+    at csrf (E:\学习文档\高级node\egg-Dom\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at E:\学习文档\高级node\egg-Dom\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (E:\学习文档\高级node\egg-Dom\node_modules\koa-session\index.js:41:13)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 9404
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 11:15:47,703 ERROR 6248 [-/127.0.0.1/-/7ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (E:\学习文档\高级node\egg-Dom\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (E:\学习文档\高级node\egg-Dom\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (E:\学习文档\高级node\egg-Dom\node_modules\egg-security\app\extend\context.js:86:33)
+    at Object.ensureCsrfSecret (E:\学习文档\高级node\egg-Dom\node_modules\egg-security\app\extend\context.js:97:13)
+    at csrf (E:\学习文档\高级node\egg-Dom\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at E:\学习文档\高级node\egg-Dom\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (E:\学习文档\高级node\egg-Dom\node_modules\koa-session\index.js:41:13)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 6248
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 11:16:02,338 ERROR 7360 [-/127.0.0.1/-/9ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (E:\学习文档\高级node\egg-Dom\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (E:\学习文档\高级node\egg-Dom\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (E:\学习文档\高级node\egg-Dom\node_modules\egg-security\app\extend\context.js:86:33)
+    at Object.ensureCsrfSecret (E:\学习文档\高级node\egg-Dom\node_modules\egg-security\app\extend\context.js:97:13)
+    at csrf (E:\学习文档\高级node\egg-Dom\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at E:\学习文档\高级node\egg-Dom\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (E:\学习文档\高级node\egg-Dom\node_modules\koa-session\index.js:41:13)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 7360
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 11:16:26,486 ERROR 17828 [-/127.0.0.1/-/10ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (E:\学习文档\高级node\egg-Dom\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (E:\学习文档\高级node\egg-Dom\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (E:\学习文档\高级node\egg-Dom\node_modules\egg-security\app\extend\context.js:86:33)
+    at Object.ensureCsrfSecret (E:\学习文档\高级node\egg-Dom\node_modules\egg-security\app\extend\context.js:97:13)
+    at csrf (E:\学习文档\高级node\egg-Dom\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at E:\学习文档\高级node\egg-Dom\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (E:\学习文档\高级node\egg-Dom\node_modules\koa-session\index.js:41:13)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 17828
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 19:13:08,637 WARN 19184 [-/127.0.0.1/-/464ms POST /registry] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-12-04 19:13:08,668 WARN 19184 [-/127.0.0.1/-/495ms POST /registry] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (E:\学习文档\高级node\egg-Dom\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (E:\学习文档\高级node\egg-Dom\node_modules\egg-security\app\extend\context.js:153:19)
+    at csrf (E:\学习文档\高级node\egg-Dom\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at E:\学习文档\高级node\egg-Dom\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (E:\学习文档\高级node\egg-Dom\node_modules\koa-session\index.js:41:13)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (E:\学习文档\高级node\egg-Dom\node_modules\koa-override\index.js:38:12)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+message: "missing csrf token"
+pid: 19184
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 19:55:47,883 ERROR 14824 [-/127.0.0.1/-/246ms POST /registry] nodejs.TypeError: need object type rule
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:56:13)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:7:28)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 14824
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 19:59:31,202 ERROR 5024 [-/127.0.0.1/-/24ms POST /registry] nodejs.TypeError: need object type rule
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:56:13)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:7:28)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 5024
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:06:36,637 ERROR 16108 [-/127.0.0.1/-/21ms POST /registry?id=123&username=sjg&password=123&check=0] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: phone
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:7:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 16108
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:07:58,675 ERROR 9892 [-/127.0.0.1/-/77ms POST /registry?id=123&username=sjg&password=123&check=0] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: phone
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:7:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 9892
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:08:13,551 ERROR 16932 [-/127.0.0.1/-/41ms POST /registry?id=123&username=sjg&password=123&check=0] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: phone
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:7:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 16932
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:08:31,114 ERROR 16932 [-/127.0.0.1/-/22ms POST /registry] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: phone
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:7:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 16932
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:08:59,175 ERROR 16588 [-/127.0.0.1/-/28ms POST /registry] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: phone
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:7:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 16588
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:09:41,304 ERROR 16588 [-/127.0.0.1/-/15ms POST /registry?id=123&username=sjg&password=123&check=0] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: phone
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:7:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 16588
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:10:10,494 ERROR 8280 [-/127.0.0.1/-/27ms POST /registry?id=123&username=sjg&password=123&check=0] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: phone
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:7:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 8280
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:10:41,776 ERROR 8280 [-/127.0.0.1/-/1ms POST /registry?username=sjg&password=123&identity=0] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: phone
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:7:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 8280
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:11:02,334 ERROR 19016 [-/127.0.0.1/-/22ms POST /registry?username=sjg&password=123&identity=0] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: phone
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:7:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 19016
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:21:16,414 ERROR 19016 [-/127.0.0.1/-/2ms POST /registry?username=sjg&password=123&identity=0] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: phone
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:7:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 19016
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:21:48,246 ERROR 3400 [-/127.0.0.1/-/24ms POST /registry?username=sjg&password=123&identity=0] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: phone
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:7:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 3400
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:23:04,806 ERROR 1240 [-/127.0.0.1/-/21ms POST /registry?username=sjg&password=123&identity=0] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: phone
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:7:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 1240
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:23:39,043 ERROR 1240 [-/127.0.0.1/-/3ms POST /registry?username=sjg&password=123&identity=0] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: phone
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:7:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 1240
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:24:01,019 ERROR 9804 [-/127.0.0.1/-/27ms POST /registry?username=sjg&password=123&identity=0] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: phone
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:6:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 9804
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:24:22,148 ERROR 17768 [-/127.0.0.1/-/20ms POST /registry?username=sjg&password=123&identity=0] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: phone
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:6:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 17768
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:25:59,595 ERROR 17992 [-/127.0.0.1/-/19ms POST /registry?username=sjg&password=123&identity=0] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: username
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:6:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 17992
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:27:07,974 ERROR 7992 [-/127.0.0.1/-/19ms POST /registry?username=sjg&password=123&identity=0] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: username
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:6:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 7992
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:28:01,687 ERROR 5112 [-/127.0.0.1/-/18ms POST /registry?username=sjg&password=123&identity=0] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: username
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:6:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 5112
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:29:21,372 ERROR 2900 [-/127.0.0.1/-/22ms POST /registry?username=sjg&password=123&identity=0] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: username
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:8:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 2900
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:30:13,353 ERROR 5456 [-/127.0.0.1/-/19ms POST /registry?username=sjg&password=123&identity=0] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, but the following type was passed: username
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:7:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 5456
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:31:45,772 ERROR 1656 [-/127.0.0.1/-/19ms POST /registry?username=sjg&password=123&identity=0] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, phone, but the following type was passed: username
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:7:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 1656
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:32:03,921 ERROR 6336 [-/127.0.0.1/-/21ms POST /registry?username=sjg&password=123&identity=0] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, phone, but the following type was passed: username
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:7:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 6336
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:32:52,522 ERROR 6336 [-/127.0.0.1/-/2ms POST /registry?username=sjg&password=123&identity=0] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, phone, but the following type was passed: username
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:7:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 6336
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-04 20:33:04,415 ERROR 6336 [-/127.0.0.1/-/3ms POST /registry?username=sjg&password=123&identity=0] nodejs.TypeError: rule type must be one of number, int, integer, string, id, date, dateTime, datetime, boolean, bool, array, object, enum, email, password, url, phone, but the following type was passed: username
+    at Parameter.validate (E:\学习文档\高级node\egg-Dom\node_modules\parameter\index.js:106:15)
+    at module.exports.index (E:\学习文档\高级node\egg-Dom\app\controller\user.js:7:38)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg-Dom\node_modules\koa-compose\index.js:44:32)
+
+pid: 6336
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-05 20:40:23,860 ERROR 2892 [-/127.0.0.1/-/241ms POST /registry] nodejs.ER_DATA_TOO_LONGError: ER_DATA_TOO_LONG: Data too long for column 'identity' at row 1
+    at Query.Sequence._packetToError (E:\学习文档\高级node\egg-Dom\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (E:\学习文档\高级node\egg-Dom\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (E:\学习文档\高级node\egg-Dom\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (E:\学习文档\高级node\egg-Dom\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (E:\学习文档\高级node\egg-Dom\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (E:\学习文档\高级node\egg-Dom\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (E:\学习文档\高级node\egg-Dom\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (E:\学习文档\高级node\egg-Dom\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (E:\学习文档\高级node\egg-Dom\node_modules\mysql\lib\Pool.js:199:23)
+    at E:\学习文档\高级node\egg-Dom\node_modules\ali-rds\node_modules\pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (E:\学习文档\高级node\egg-Dom\node_modules\ali-rds\node_modules\pify\index.js:12:10)
+    at Pool.ret [as query] (E:\学习文档\高级node\egg-Dom\node_modules\ali-rds\node_modules\pify\index.js:56:34)
+    at RDSClient.proto._query (E:\学习文档\高级node\egg-Dom\node_modules\ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (E:\学习文档\高级node\egg-Dom\node_modules\ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (E:\学习文档\高级node\egg-Dom\node_modules\co\index.js:65:19)
+    at E:\学习文档\高级node\egg-Dom\node_modules\co\index.js:54:5
+    sql: INSERT INTO `user`(`username`, `password`, `identity`, `id`) VALUES('17611913273', '123123', '123abc', 'utsb782q58')
+code: "ER_DATA_TOO_LONG"
+errno: 1406
+sqlMessage: "Data too long for column 'identity' at row 1"
+sqlState: "22001"
+index: 0
+sql: "INSERT INTO `user`(`username`, `password`, `identity`, `id`) VALUES('17611913273', '123123', '123abc', 'utsb782q58')"
+name: "ER_DATA_TOO_LONGError"
+pid: 2892
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-05 20:43:27,059 ERROR 2892 [-/127.0.0.1/-/2ms POST /registry] nodejs.ER_DATA_TOO_LONGError: ER_DATA_TOO_LONG: Data too long for column 'identity' at row 1
+    at Query.Sequence._packetToError (E:\学习文档\高级node\egg-Dom\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (E:\学习文档\高级node\egg-Dom\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (E:\学习文档\高级node\egg-Dom\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (E:\学习文档\高级node\egg-Dom\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (E:\学习文档\高级node\egg-Dom\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (E:\学习文档\高级node\egg-Dom\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (E:\学习文档\高级node\egg-Dom\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (E:\学习文档\高级node\egg-Dom\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (E:\学习文档\高级node\egg-Dom\node_modules\mysql\lib\Pool.js:199:23)
+    at E:\学习文档\高级node\egg-Dom\node_modules\ali-rds\node_modules\pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (E:\学习文档\高级node\egg-Dom\node_modules\ali-rds\node_modules\pify\index.js:12:10)
+    at Pool.ret [as query] (E:\学习文档\高级node\egg-Dom\node_modules\ali-rds\node_modules\pify\index.js:56:34)
+    at RDSClient.proto._query (E:\学习文档\高级node\egg-Dom\node_modules\ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (E:\学习文档\高级node\egg-Dom\node_modules\ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (E:\学习文档\高级node\egg-Dom\node_modules\co\index.js:65:19)
+    at E:\学习文档\高级node\egg-Dom\node_modules\co\index.js:54:5
+    sql: INSERT INTO `user`(`username`, `password`, `identity`, `id`) VALUES('12345132413', '123132', '123abc', 'xt3x9kw796')
+code: "ER_DATA_TOO_LONG"
+errno: 1406
+sqlMessage: "Data too long for column 'identity' at row 1"
+sqlState: "22001"
+index: 0
+sql: "INSERT INTO `user`(`username`, `password`, `identity`, `id`) VALUES('12345132413', '123132', '123abc', 'xt3x9kw796')"
+name: "ER_DATA_TOO_LONGError"
+pid: 2892
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-07 10:28:31,399 ERROR 2312 [-/127.0.0.1/-/162ms POST /registry] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'usercode' in 'field list'
+    at Query.Sequence._packetToError (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\Pool.js:199:23)
+    at E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\ali-rds\node_modules\pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\ali-rds\node_modules\pify\index.js:12:10)
+    at Pool.ret [as query] (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\ali-rds\node_modules\pify\index.js:56:34)
+    at RDSClient.proto._query (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\co\index.js:65:19)
+    at E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\co\index.js:54:5
+    sql: INSERT INTO `user`(`username`, `password`, `usercode`, `identity`, `id`) VALUES('史京港', 'sjg123', '17332733', '学生', 'wbqeeudvee')
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'usercode' in 'field list'"
+sqlState: "42S22"
+index: 0
+sql: "INSERT INTO `user`(`username`, `password`, `usercode`, `identity`, `id`) VALUES('史京港', 'sjg123', '17332733', '学生', 'wbqeeudvee')"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 2312
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-07 10:39:50,534 ERROR 12348 [-/127.0.0.1/-/67ms POST /getlogin] nodejs.ER_NO_SUCH_TABLEError: ER_NO_SUCH_TABLE: Table '1706b.username' doesn't exist
+    at Query.Sequence._packetToError (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\Pool.js:199:23)
+    at E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\ali-rds\node_modules\pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\ali-rds\node_modules\pify\index.js:12:10)
+    at Pool.ret [as query] (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\ali-rds\node_modules\pify\index.js:56:34)
+    at RDSClient.proto._query (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\co\index.js:65:19)
+    at E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\co\index.js:54:5
+    sql: SELECT * FROM `username`
+code: "ER_NO_SUCH_TABLE"
+errno: 1146
+sqlMessage: "Table '1706b.username' doesn't exist"
+sqlState: "42S02"
+index: 0
+sql: "SELECT * FROM `username`"
+name: "ER_NO_SUCH_TABLEError"
+pid: 12348
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-07 10:40:53,750 ERROR 6684 [-/127.0.0.1/-/18ms POST /getlogin] nodejs.ER_NO_SUCH_TABLEError: ER_NO_SUCH_TABLE: Table '1706b.username' doesn't exist
+    at Query.Sequence._packetToError (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:198:13)
+    at addChunk (_stream_readable.js:288:12)
+    --------------------
+    at Pool.query (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\mysql\lib\Pool.js:199:23)
+    at E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\ali-rds\node_modules\pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\ali-rds\node_modules\pify\index.js:12:10)
+    at Pool.ret [as query] (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\ali-rds\node_modules\pify\index.js:56:34)
+    at RDSClient.proto._query (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\ali-rds\lib\client.js:34:20)
+    at RDSClient.proto.query (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\co\index.js:65:19)
+    at E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\co\index.js:54:5
+    sql: SELECT * FROM `username`
+code: "ER_NO_SUCH_TABLE"
+errno: 1146
+sqlMessage: "Table '1706b.username' doesn't exist"
+sqlState: "42S02"
+index: 0
+sql: "SELECT * FROM `username`"
+name: "ER_NO_SUCH_TABLEError"
+pid: 6684
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-07 10:41:18,914 ERROR 9576 [-/127.0.0.1/-/16ms POST /getlogin] nodejs.ReferenceError: request is not defined
+    at module.exports.getlogin (E:\学习文档\高级node\egg登录注册\egg-Dom\app\controller\user.js:46:11)
+    at Object.callFn (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa-compose\index.js:36:12
+
+pid: 9576
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-07 10:48:47,847 ERROR 9576 [-/127.0.0.1/-/1ms POST /getlogin] nodejs.ReferenceError: request is not defined
+    at module.exports.getlogin (E:\学习文档\高级node\egg登录注册\egg-Dom\app\controller\user.js:46:11)
+    at Object.callFn (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa-compose\index.js:36:12
+
+pid: 9576
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-07 10:49:05,933 ERROR 18508 [-/127.0.0.1/-/16ms POST /getlogin] nodejs.ReferenceError: ctx is not defined
+    at module.exports.getlogin (E:\学习文档\高级node\egg登录注册\egg-Dom\app\controller\user.js:42:25)
+    at Object.callFn (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa-compose\index.js:36:12
+
+pid: 18508
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-07 10:58:56,751 ERROR 9756 [-/undefined/-/340708ms POST /getlogin] nodejs.ECONNABORTEDError: write ECONNABORTED
+    at afterWriteDispatched (internal/stream_base_commons.js:78:25)
+    at writeGeneric (internal/stream_base_commons.js:73:3)
+    at Socket._writeGeneric (net.js:713:5)
+    at Socket._write (net.js:725:8)
+    at doWrite (_stream_writable.js:415:12)
+    at clearBuffer (_stream_writable.js:545:7)
+    at Socket.Writable.uncork (_stream_writable.js:319:7)
+    at ServerResponse.end (_http_outgoing.js:721:21)
+    at respond (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa\lib\application.js:263:7)
+    at handleResponse (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa\lib\application.js:164:34)
+errno: "ECONNABORTED"
+code: "ECONNABORTED"
+syscall: "write"
+headerSent: true
+name: "ECONNABORTEDError"
+pid: 9756
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-07 10:58:56,763 ERROR 9756 [-/undefined/-/3ms POST /getlogin] nodejs.ECONNABORTEDError: write ECONNABORTED
+    at afterWriteDispatched (internal/stream_base_commons.js:78:25)
+    at writeGeneric (internal/stream_base_commons.js:73:3)
+    at Socket._writeGeneric (net.js:713:5)
+    at Socket._write (net.js:725:8)
+    at doWrite (_stream_writable.js:415:12)
+    at clearBuffer (_stream_writable.js:545:7)
+    at Socket.Writable.uncork (_stream_writable.js:319:7)
+    at ServerResponse.end (_http_outgoing.js:721:21)
+    at respond (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa\lib\application.js:263:7)
+    at handleResponse (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa\lib\application.js:164:34)
+errno: "ECONNABORTED"
+code: "ECONNABORTED"
+syscall: "write"
+headerSent: true
+name: "ECONNABORTEDError"
+pid: 9756
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-07 11:16:33,982 ERROR 4892 [-/127.0.0.1/-/15ms POST /getlogin] nodejs.ReferenceError: username is not defined
+    at module.exports.getlogin (E:\学习文档\高级node\egg登录注册\egg-Dom\app\controller\user.js:44:13)
+    at Object.callFn (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa-compose\index.js:36:12
+
+pid: 4892
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-07 11:16:46,483 ERROR 19304 [-/127.0.0.1/-/18ms POST /getlogin] nodejs.ReferenceError: username is not defined
+    at module.exports.getlogin (E:\学习文档\高级node\egg登录注册\egg-Dom\app\controller\user.js:44:13)
+    at Object.callFn (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at next (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa-compose\index.js:45:18)
+    at E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa-compose\index.js:44:32)
+    at E:\学习文档\高级node\egg登录注册\egg-Dom\node_modules\koa-compose\index.js:36:12
+
+pid: 19304
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-10 11:54:37,314 ERROR 16892 [-/127.0.0.1/-/211ms POST /getlogin] nodejs.ReferenceError: jwt is not defined
+    at module.exports.getlogin (E:\学习文档\高级node\egg登录注册\egg-Dom\app\controller\user.js:53:27)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 16892
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-10 11:55:15,284 ERROR 16892 [-/127.0.0.1/-/6ms POST /getlogin] nodejs.ReferenceError: jwt is not defined
+    at module.exports.getlogin (E:\学习文档\高级node\egg登录注册\egg-Dom\app\controller\user.js:53:27)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 16892
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-10 14:09:05,448 ERROR 13812 [-/127.0.0.1/-/17ms POST /getlogin] nodejs.ReferenceError: jwt is not defined
+    at module.exports.getlogin (E:\学习文档\高级node\egg登录注册\egg-Dom\app\controller\user.js:53:27)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 13812
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-10 14:10:14,662 ERROR 13812 [-/127.0.0.1/-/3ms POST /getlogin] nodejs.ReferenceError: jwt is not defined
+    at module.exports.getlogin (E:\学习文档\高级node\egg登录注册\egg-Dom\app\controller\user.js:53:27)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 13812
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-10 14:14:41,567 ERROR 18336 [-/127.0.0.1/-/20ms POST /getlogin] nodejs.TypeError: Cannot read property 'app' of undefined
+    at module.exports.getlogin (E:\学习文档\高级node\egg登录注册\egg-Dom\app\controller\user.js:54:51)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 18336
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-10 14:15:59,171 ERROR 13812 [-/127.0.0.1/-/21ms POST /getlogin] nodejs.TypeError: Cannot read property 'app' of undefined
+    at module.exports.getlogin (E:\学习文档\高级node\egg登录注册\egg-Dom\app\controller\user.js:49:45)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 13812
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-10 14:17:29,911 ERROR 14120 [-/127.0.0.1/-/21ms POST /getlogin] nodejs.TypeError: Cannot read property 'app' of undefined
+    at module.exports.getlogin (E:\学习文档\高级node\egg登录注册\egg-Dom\app\controller\user.js:49:51)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 14120
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-10 14:26:19,902 ERROR 2756 [-/127.0.0.1/-/21ms POST /getlogin] nodejs.TypeError: Cannot read property 'app' of undefined
+    at module.exports.getlogin (E:\学习文档\高级node\egg登录注册\egg-Dom\app\controller\user.js:49:51)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 2756
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-10 14:26:43,432 ERROR 17888 [-/127.0.0.1/-/20ms POST /getlogin] nodejs.TypeError: Cannot read property 'app' of undefined
+    at module.exports.getlogin (E:\学习文档\高级node\egg登录注册\egg-Dom\app\controller\user.js:48:51)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 17888
+hostname: ¸ß¼¶Íæ¼Ò
+
+2019-12-10 14:27:46,493 ERROR 11116 [-/127.0.0.1/-/28ms POST /getlogin] nodejs.TypeError: Cannot read property 'app' of undefined
+    at module.exports.getlogin (E:\学习文档\高级node\egg登录注册\egg-Dom\app\controller\user.js:55:51)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 11116
+hostname: ¸ß¼¶Íæ¼Ò
+
